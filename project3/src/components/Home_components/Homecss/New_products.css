@@ -1,0 +1,54 @@
+.Title{
+    font-size: 23px;
+    font-weight: 700;
+    margin: 20px 0px 0px 45px;
+    
+    
+}
+
+.new{
+    text-decoration: underline red 3px;
+    
+}
+
+.list{
+    list-style-type: none;
+    padding: 30px 60px;
+    margin: 0;
+    display: flex;
+}
+
+.imag_box{
+    width: 270px;
+    height: 80%;
+    background-color: rgb(193, 193, 193);
+}
+
+.images{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.product_item{
+    height: 450px;
+    margin-right: 20px;
+}
+
+.product_details{
+    text-align: center;
+    height: 30%;
+    width: 270px;
+    overflow: hidden;
+}
+
+.price,
+.product_name{
+    margin: 0;
+    padding-left: 15px;
+    font-size: 19px;
+}
+
+.price{
+    font-weight: 650;
+}
